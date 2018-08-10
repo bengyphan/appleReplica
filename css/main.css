@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/*navigation bar*/
+nav {
+	background-color: black;
+	text-align: center;
+	margin: 0;
+}
+nav ul {
+	margin: 0;
+	display: flex;
+	position: relative;
+	bottom: -4px;
+}
+
+li {
+	flex: 1;
+	color: white;
+	display: inline-block;
+	padding: 10px;
+	margin: 5px;
+	font-family: sans-serif;
+
+}
+.fab {
+	font-size: 25px;
+	position: relative;
+	bottom: 4px;
+
+}
+.fas {
+	font-size: 20px;
+}
+/* Iphone X section*/
+.iphonex {
+	text-align: center;
+	font-family: sans-serif
+}
+.iphonex h1 {
+	font-size: 50px;
+	font-family: inherit;
+	font-weight: : bold;
+	margin: 10px;
+	padding-top: 80px;
+}
+.iphonex h2 {
+	font-size: 25px;
+	font-family: sans-serif;
+	margin: 0;
+}
+.iphonex h3 {
+	display: inline-block;
+	margin: 20px;
+	color: blue;
+
+}
+.iphonex div {
+	text-align: center;
+}
